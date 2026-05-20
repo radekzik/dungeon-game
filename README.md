@@ -1,1 +1,1 @@
-# DungeonGame
+# dungeon-game
